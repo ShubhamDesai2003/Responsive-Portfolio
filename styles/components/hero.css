@@ -39,7 +39,17 @@
     font-size: var(--size-sm);
 }
 
+/* Xss */
+@media (max-width: 412px){
+    .container{
+        max-width: 412px;
+    }
 
+    .hero__btn{
+        font-size: var(--size-xs);
+    }
+
+}
 
 /* Xs */
 @media (min-width: 475px){

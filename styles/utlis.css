@@ -64,7 +64,6 @@
 @media (max-width: 412px){
     .container{
         max-width: 412px;
-        border: 1px solid red;
     }
 }
 
