@@ -122,7 +122,7 @@
     .featured__img-container {
         margin-top: 1.5rem;
         grid-gap:1.5rem;
-    }
+    }}
 
     /* sm */
     @media (min-width: 640px) {
@@ -195,9 +195,4 @@
     .featured__img-container {
         margin-top: 2rem;
         grid-gap:2rem;
-    }
-
-    }
-
-    /* 2xL */
-    /* @media (min-width: 1536px){} */
+    }}

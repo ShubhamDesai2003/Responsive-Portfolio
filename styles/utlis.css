@@ -60,6 +60,14 @@
 
 /* Mobile First */
 
+/* Xss */
+@media (max-width: 412px){
+    .container{
+        max-width: 412px;
+        border: 1px solid red;
+    }
+}
+
 /* Xs */
 @media (min-width: 475px){
     .container{
