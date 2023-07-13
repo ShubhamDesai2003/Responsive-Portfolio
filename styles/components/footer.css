@@ -6,4 +6,6 @@
     text-transform: uppercase;
     letter-spacing: 0.2em;
     user-select: none;
+    margin-bottom: 5px;
+    margin-top: -20px;
 }
