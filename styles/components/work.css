@@ -1,8 +1,9 @@
 .work {
-    text-align: center;
+    text-align: left;
 }
 
 .work__title {
+    text-align: center;
     font-size: var(--size-2xl);
     color: var(--clr-light);
 }
@@ -57,6 +58,7 @@
 
 .work__project-btn {
     font-size: var(--size-sm);
+    margin-top: 20px;
 }
 
 .work__project-subtitle {
